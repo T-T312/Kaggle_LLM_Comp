@@ -1,0 +1,13 @@
+{
+  "id": "Darling312222/llm-classification-baseline",
+  "title": "LLM Classification Baseline",
+  "code_file": "project.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": ["llm-classification-finetuning"],
+  "kernel_sources": []
+}
